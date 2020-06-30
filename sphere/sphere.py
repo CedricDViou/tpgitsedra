@@ -25,7 +25,7 @@ class Sphere(object):
     def diameter(self):
         # *** STEP 5 ***
         # uncomment the following line
-        return self.radius
+        return self.radius * 2
 
     def dump(self, filename):
         # *** STEP 6 ***
